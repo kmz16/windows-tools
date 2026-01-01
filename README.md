@@ -1,10 +1,10 @@
 # windows installer keys
-win 8,
-# pro
+
+# windows 8.1 pro
 1334NH-RXG76-64THK-C7CKG-D3VPT
-# core
+# windows 8.1 core
 XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
 
-win 10 (2015)
+# win 10 (2015)
 
  
