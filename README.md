@@ -1,4 +1,4 @@
-# windows-tools in releases
+# windows-apps in releases
 # #################### #
 
 # windows installer keys
